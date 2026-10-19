@@ -27,4 +27,4 @@
 Machines that measure and move: test benches, automation, robotics, energy and semiconductor equipment. I like staying close to the hardware and the bench.
 
 ## Get in touch
-📫 federico.bettin@libero.it · [LinkedIn](https://www.linkedin.com/in/fbettin)
+[LinkedIn](https://www.linkedin.com/in/fbettin)
