@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Federico 👋
 
-<!--
-**federico-bettin/federico-bettin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Automation & Measurement Engineer** based near Zurich, Switzerland.
+25+ years building machines, test benches and measurement systems, from concept to on-site commissioning at customers in Europe, Asia and the US.
 
-Here are some ideas to get you started:
+## What I do
+- 🔧 Design and commission **test benches, ATE and in-line metrology systems**
+- 🤖 **Automation & control**: Beckhoff TwinCAT, IEC 61131-3, EtherCAT, CAN, motion control
+- 📈 **Test & measurement**: LabVIEW (Certified Developer & Instructor), MATLAB, Python, data acquisition, signal processing, measurement uncertainty (GUM)
+- 📡 **Sensor fusion**: Camera / Radar / Lidar on NVIDIA Jetson, ROS 2
+- ✅ **Qualification & certification**: EN 50155 type certification, climatic and vibration campaigns, factory and site acceptance tests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected work
+- **World-first laser-based rail defect diagnostic system**: 10 μm raw precision at up to 20 km/h, certified for Deutsche Bahn
+- **Solar cell production line**: PLC architecture from concept to commissioning, plus in-line vision and IR thermal inspection
+- **Patent** [WO2019170241A1](https://patents.google.com/patent/WO2019170241A1): sole inventor, granted in EU, US and China
+- **Motor test benches and balancing machines** deployed at Valeo and Continental
+- **Avionics ATE**: Eurofighter radar test equipment, HIL testing on a target drone
+
+## Hands-on side projects
+- 🏠 [home-automation-system](https://github.com/federico-bettin/home-automation-system): distributed system built from scratch (ESP32, Arduino, Raspberry Pi, LabVIEW, C/C++), now being ported to Python
+
+## Tech stack
+`LabVIEW` `Python` `C/C++` `C#/.NET` `MATLAB` `TwinCAT` `CODESYS` `EtherCAT` `Git` `CI/CD`
+
+## Interests
+Machines that measure and move: test benches, automation, robotics, energy and semiconductor equipment. I like staying close to the hardware and the bench.
+
+## Get in touch
+📫 federico.bettin@libero.it · [LinkedIn](https://www.linkedin.com/in/fbettin)
